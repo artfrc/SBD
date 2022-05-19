@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T19:31:47.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="e1Gn2K73eo4w6iFwUsKo" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T19:32:29.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="jZKxRZf9-h60_RSXW951" version="18.0.7" type="github">
   <diagram id="DrCSYfiU6ArK8frk0vY0" name="Page-1">
     <mxGraphModel dx="1014" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,6 +264,9 @@
         </mxCell>
         <mxCell id="Kguk9afn4GoUrWtjC0_F-92" value="Especialidade" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="270" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kguk9afn4GoUrWtjC0_F-93" value="Nº Quartos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
